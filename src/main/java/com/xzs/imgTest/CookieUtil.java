@@ -13,6 +13,7 @@ import javax.servlet.http.HttpServletResponse;
  * @time:2017年10月16日 上午10:24:37
  */
 public class CookieUtil {
+	
 	// private static final Logger _LOGGER =
 	// LoggerFactory.getLogger(CookieUtil.class);
 	private static final String DOMAIN = "";
